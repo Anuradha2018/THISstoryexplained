@@ -1,2 +1,2 @@
 # THISstoryexplained
-Code Snippet with THIS concept explained. 
+Code Snippet with THIS concept in JavaScript explained. 
