@@ -64,5 +64,5 @@ title : 'a',
 };
 book.showTags();
 
-// To keep in mind: Not all higher order functions in javascript can have this an argument.
+// To keep in mind: Not all higher order functions in javascript can have 'this' in an argument.
 
